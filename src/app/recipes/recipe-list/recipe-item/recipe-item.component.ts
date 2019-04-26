@@ -17,9 +17,6 @@ export class RecipeItemComponent implements OnInit {
   ngOnInit() {
   }
 
-  //Event binding to catch data from html to ts file
-  onSelected() {
-    this.recipeService.recipeSelected.emit(this.recipe);
-  }
+
 
 }
