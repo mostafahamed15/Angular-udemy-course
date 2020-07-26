@@ -45,5 +45,19 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
+  },
+  "resolutions": {
+    "lodash": "^4.17.19",
+    "websocket-extensions": "^0.1.4",
+    "acorn": ">=5.7.4",
+    "minimist": "^0.2.1",
+    "handlebars": "^4.3.0",
+    "fstream": "^1.0.12",
+    "tar": "^2.2.2",
+    "npm-registry-fetch": "^4.0.5",
+    "https-proxy-agent": "^2.2.3",
+    "serialize-javascript": "^2.1.1",
+    "lodash.mergewith": "^4.6.2",
+    "kind-of": "^6.0.3"
   }
 }
